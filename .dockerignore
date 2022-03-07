@@ -1,0 +1,4 @@
+*
+!auth_file.txt.tmpl
+!entrypoint.sh
+!pgbouncer.ini.tmpl
